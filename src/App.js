@@ -58,7 +58,7 @@ console.log(clicked)
    {!chosenLevel && <div className="level-selector">
     <img src={img} alt="" width={"55%"} />
     <div className="">
-    <h1>Word Association App</h1>
+    <h1>Word Quiz Game</h1>
     <p>Select Your Level To start</p>
       <select
         name="levels"
